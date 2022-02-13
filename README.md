@@ -3,7 +3,7 @@
 ## Vištiena
 - [Vištiena su grietinėle ir garstyčiomis keptuvėje](https://www.lamaistas.lt/receptas/vistiena-su-grietinele-ir-garstyciomis-keptuveje-80136)
 - [Fantastiškai skani vištiena su padažu](https://www.lamaistas.lt/receptas/fantastiskai-skani-vistiena-su-padazu-400)
-- [Fantastiškai skani vištiena su padažu](https://www.lamaistas.lt/receptas/vistienos-stir-fry-su-brokoliais-79815)
+- [Vištienos stir fry su brokoliais](https://www.lamaistas.lt/receptas/vistienos-stir-fry-su-brokoliais-79815)
 - [Greitas "balandėlių" troškinys](https://www.lamaistas.lt/receptas/greitas-balandeliu-troskinys-64700)
 - [Citrininė vištiena orkaitėje](https://www.lamaistas.lt/receptas/citrinine-vistiena-orkaiteje-63321)
 - [Orkaitėje keptos vištienos blauzdelės su bulvėmis ir daržovėmis](https://www.lamaistas.lt/receptas/vieno-puodo-vakariene-orkaiteje-keptos-vistienos-blauzdeles-su-bulvemis-ir-darzovemis-57781)
