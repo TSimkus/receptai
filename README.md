@@ -26,7 +26,8 @@ https://www.lamaistas.lt/receptas/kremiska-lasisa-su-sauleje-dziovintais-pomidor
 ## Makaronai
 https://www.lamaistas.lt/receptas/cili-mac-n-cheese-80006
 https://www.lamaistas.lt/receptas/makaronai-su-keptomis-paprikomis-ir-feta-60519
-
+https://www.lamaistas.lt/receptas/makaronai-su-lasisa-ir-pomidorais-32950
+https://www.lamaistas.lt/receptas/kremiski-makaronai-su-vistiena-spinatais-ir-sauleje-dziovintais-pomidorais-65990
 
 ## Daržovės
 https://www.lamaistas.lt/receptas/bulves-orkaiteje-kepimo-popieriaus-vokelyje-minkstutes-ir-labai-skanios-62266
