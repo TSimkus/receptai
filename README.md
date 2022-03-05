@@ -1,6 +1,4 @@
-# Receptai
-
-## Vištiena
+# Vištiena
 - [Vištiena su grietinėle ir garstyčiomis keptuvėje](https://www.lamaistas.lt/receptas/vistiena-su-grietinele-ir-garstyciomis-keptuveje-80136)
 - [Fantastiškai skani vištiena su padažu](https://www.lamaistas.lt/receptas/fantastiskai-skani-vistiena-su-padazu-400)
 - [Vištienos stir fry su brokoliais](https://www.lamaistas.lt/receptas/vistienos-stir-fry-su-brokoliais-79815)
@@ -13,11 +11,11 @@
 - [Aromatinga Teriyaki vištiena](https://www.lamaistas.lt/receptas/aromatinga-teriyaki-vistiena-63699)
 - [Vištienos troškinys su voveraitėmis ir grietinėle](https://www.lamaistas.lt/receptas/vistienos-troskinys-su-voveraitemis-ir-grietinele-64487)
 
-## Sriubos
+# Sriubos
 - [Tiršta vištienos ir brokolių sriuba](https://www.lamaistas.lt/receptas/tirsta-vistienos-ir-brokoliu-sriuba-78718)
 - [Soti mėsos sriuba su pupelėmis](https://www.lamaistas.lt/receptas/soti-mesos-sriuba-su-pupelemis-62654)
 
-## Kiauliena
+# Kiauliena
 - [Saldžiarūgštė kiauliena](https://www.lamaistas.lt/receptas/saldziarugste-kiauliena-39899)
 - [Paprasta lazanija](https://www.lamaistas.lt/receptas/paprasta-lazanija-10046)
 - [Faršu įdarytos paprikos orkaitėje](https://www.lamaistas.lt/receptas/idarytos-paprikos-30755)
@@ -25,10 +23,10 @@
 - [Plėšyta kiauliena](https://www.lamaistas.lt/receptas/plesyta-kiauliena-63438)
 - [Kiaulienos nugarinė įdaryta džiovintomis slyvomis](https://www.lamaistas.lt/receptas/kiaulienos-nugarine-idaryta-dziovintomis-slyvomis-65911)
 
-## Žuvis
+# Žuvis
 - [Lašiša keptuvėje grietinėlės padaže su špinatais ir saulėje džiovintais pomidorais](https://www.lamaistas.lt/receptas/kremiska-lasisa-su-sauleje-dziovintais-pomidorais-65435)
 
-## Makaronai
+# Makaronai
 - [Čili Mac N Cheese](https://www.lamaistas.lt/receptas/cili-mac-n-cheese-80006)
 - [Makaronai su keptomis paprikomis ir feta](https://www.lamaistas.lt/receptas/makaronai-su-keptomis-paprikomis-ir-feta-60519)
 - [Makaronai su lašiša ir grietinėlės padažu](https://www.lamaistas.lt/receptas/makaronai-su-lasisa-ir-pomidorais-32950)
@@ -37,32 +35,40 @@
 - [Užkepti spagečiai](https://www.lamaistas.lt/receptas/uzkepti-spageciai-63129)
 - [Krevetės su grietinėlės, špinatų ir saulėje džiovintų pomidorų padažu](https://www.lamaistas.lt/receptas/krevetes-su-sauleje-dziovintu-pomidoru-spinatu-ir-grietineles-padazu-63279)
 
-## Daržovės
+# Daržovės
 - [Bulvės orkaitėje kepimo popieriaus vokelyje - minkštutės ir labai skanios!](https://www.lamaistas.lt/receptas/bulves-orkaiteje-kepimo-popieriaus-vokelyje-minkstutes-ir-labai-skanios-62266)
 - [Burnoje tirpstančios bulvytės](https://www.lamaistas.lt/receptas/burnoje-tirpstancios-bulvytes-63716)
 - [Orkaitėje keptos įdarytos bulvės su kumpeliu](https://www.lamaistas.lt/receptas/orkaiteje-keptos-idarytos-bulves-su-kumpeliu-63534)
 
-## Užkandžiai
+# Užkandžiai
 - [Corn dogs](https://www.lamaistas.lt/receptas/corn-dogs-64141)
+- [Greiti tortilijų suktinukai su pikantišku tuno įdaru](https://www.lamaistas.lt/receptas/greiti-tortiliju-suktinukai-su-pikantisku-tuno-idaru-64454)
+- [Užkandėlė "Svečiai ateina netrukus"](https://www.tv3.lt/naujiena/gyvenimas/receptas-uzkandele-sveciai-ateina-netrukus-n1151433)
+- [Užkandiniai šaukšteliai su krabų lazdelių įdaru](https://www.lamaistas.lt/receptas/uzkandiniai-sauksteliai-su-krabu-lazdeliu-idaru-58931)
+- [Krepšeliai Velykoms](https://www.lamaistas.lt/receptas/krepseliai-velykoms-45287)
+- [Lavašo suktinukai su lašiša](https://www.delfi.lt/receptai/receptai/lavaso-suktinukai-su-lasisa-per-20-minuciu?id=71406602)
+- [Sumuštinis su guacamole ir krevetėmis](https://www.skaniaisveikai.lt/receptai/pusryciu-idejos/sumustinis-su-guacamole-ir-krevetemis/)
+- [Sumuštiniai su ikrais (ant prancūziško batono)](https://worldrecipes.eu/lt/sumustiniai-su-ikrais-ant-prancuzisko-batono)
+- [Gurmaniški sumuštinukai su krevetėmis](https://www.receptai.lt/receptas/gurmaniski-sumustinukai-su-krevetemis-8692)
 
-## Troškiniai
+# Troškiniai
 - [Meksikietiškas čili troškinys](https://www.lamaistas.lt/receptas/meksikietiskas-cili-troskinys-78843)
 - [Greitas ryžių troškinys su vištiena ir dešrelėmis ala "Jambalaya"](https://www.lamaistas.lt/receptas/jambalaya-troskinys-64682)
 - [Tailandietiškas vištienos ir daržovių karis](https://www.lamaistas.lt/receptas/azijietiskas-darzoviu-karis-su-vistiena-62681)
 - [Greitas čili troškinys](https://www.lamaistas.lt/receptas/greitas-cili-troskinys-61636)
 
-## Salotos
+# Salotos
 - [Azijietiškos agurkų salotos - tobulos prie mėsos](https://www.lamaistas.lt/receptas/azijietiskos-agurku-salotos-tobulos-prie-mesos-60227)
 - [Salotos su ridikėliais, agurkais ir gaiviu užpilu](https://www.lamaistas.lt/receptas/salotos-su-ridikeliais-agurkais-ir-gaiviu-uzpilu-63946)
 - [Salotos su briuselio kopūstais, obuoliais ir graikiniais riešutais](https://www.lamaistas.lt/receptas/salotos-su-briuselio-kopustais-obuoliais-ir-graikiniais-riesutais-65219)
 - [Su morkomis marinuoti ankstyvieji kopūstai](https://www.lamaistas.lt/receptas/su-morkomis-marinuoti-ankstyvieji-kopustai-58021)
 
-## Blynai
+# Blynai
 - [Purūs amerikietiški blyneliai su jogurtiniu padažu](https://www.lamaistas.lt/receptas/amerikietiski-blyneliai-su-uogomis-ir-klevu-sirupu-63338)
 - [Purūs varškėčiai su bananais](https://www.lamaistas.lt/receptas/purus-varskeciai-su-bananais-65242)
 
-## Sumuštiniai
+# Sumuštiniai
 - [Karšti sumuštiniai keptuvėje su vištiena ir sūriu](https://www.lamaistas.lt/receptas/karsti-sumustiniai-su-vistiena-ir-suriu-61152)
 
-## Tortai
+# Tortai
 - [Nekeptas maskarponės tortas su mėlynėmis](https://www.lamaistas.lt/receptas/nekeptas-maskarpones-tortas-su-melynemis-62192)
